@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *E-Commerce Website Project **
 
-- 🌱 I’m currently learning **Java-Spring Boot**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
