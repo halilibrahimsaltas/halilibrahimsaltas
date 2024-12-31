@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim SALTAŞ</h1>
-<h3 align="center">A  Backend developer </h3>
+<h3 align="center">A  Software Developer </h3>
 
 
 
-- 🔭 I’m currently working on *E-Commerce Website Project **
+- 🔭 I’m currently working on **E-Commerce Website Project**
 
 - 🌱 I’m currently learning **React**
 
