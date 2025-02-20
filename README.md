@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data-Application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
