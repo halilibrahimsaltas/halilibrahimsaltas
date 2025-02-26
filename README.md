@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Data-Application**
+- 🔭 I’m currently working on **A Book Application**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
