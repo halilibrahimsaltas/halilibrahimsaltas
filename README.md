@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Book Application**
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
