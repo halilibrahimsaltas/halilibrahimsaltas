@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
-- ⚡ About me **I am a mechanical engineer, currently trying to be a software developer.**
+- ⚡ About me **I'm a backend-focused developer who enjoys building scalable systems and learning new tech along the way. Always curious, always coding — and always up for a good challenge!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
