@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Gym Management System**
+- 🔭 I’m currently working on **Stock Management System**
 
 - 🌱 I’m currently learning **NestJS**
 
