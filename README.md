@@ -5,11 +5,8 @@
 
 - 🔭 I’m currently working on **Stock Management System**
 
-- 🌱 I’m currently learning **NestJS**
-
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
-- ⚡ About me **I'm a backend-focused developer who enjoys building scalable systems and learning new tech along the way. Always curious, always coding — and always up for a good challenge!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
