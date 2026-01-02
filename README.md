@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Stock Management System**
+- 🔭 I’m currently working on **Laboratory Management System**
 
 - 📫 How to reach me **h.ibrahimsaltas@gmail.com**
 
